@@ -2,7 +2,7 @@
 
 Overview
 
-This is a simple number guessing game implemented in Python. The program generates a random number within a user-specified range, and the player has to guess the number. The game provides hints based on whether the guess is too high or too low.
+  This is a simple number guessing game implemented in Python. The program generates a random number within a user-specified range, and the player has to guess the number. The game provides hints based on whether the guess is too high or too low.
 
 How to Play
 
